@@ -1,0 +1,6 @@
+{
+  "name": "Astrophysics Simulator",
+  "description": "An interactive astrophysics simulator demonstrating circle rendering, 2D gravity orbits, 3D sphere projection, and spacetime curvature visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
