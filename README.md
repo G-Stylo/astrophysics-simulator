@@ -164,20 +164,21 @@ npm run preview
 
 ---
 
-## Roadmap
+### Implemented Features
 
-### Planned Features
-
-- [ ] N-body simulation improvements
-- [ ] Barnes-Hut optimization
-- [ ] Lagrange point visualization
-- [ ] Black hole simulations
-- [ ] Gravitational lensing
-- [ ] Procedural galaxy generation
-- [ ] Stellar evolution system
-- [ ] Exoplanet detection simulations
-- [ ] Save/load simulation worlds
-- [ ] Real Solar System preset
+- [x] Interactive 2D celestial body rendering
+- [x] Real-time simulation controls
+- [x] Zoom and camera navigation
+- [x] Newtonian gravitational interactions
+- [x] Orbital mechanics simulation
+- [x] Multi-body gravitational systems
+- [x] Orbital trajectory visualization
+- [x] Adjustable simulation speed
+- [x] 3D sphere projection and rendering
+- [x] Interactive 3D viewing environment
+- [x] Gravitational field visualization
+- [x] Spacetime curvature demonstrations
+- [x] Educational physics visualizations
 
 ---
 
